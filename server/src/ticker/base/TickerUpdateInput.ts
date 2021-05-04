@@ -1,0 +1,2 @@
+class TickerUpdateInput {}
+export { TickerUpdateInput };

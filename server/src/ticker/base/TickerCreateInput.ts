@@ -1,0 +1,2 @@
+class TickerCreateInput {}
+export { TickerCreateInput };
