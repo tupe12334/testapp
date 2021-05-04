@@ -1,0 +1,2 @@
+class ZxcUpdateInput {}
+export { ZxcUpdateInput };
